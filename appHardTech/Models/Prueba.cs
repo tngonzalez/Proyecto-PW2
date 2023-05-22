@@ -8,5 +8,7 @@ namespace appHardTech.Models
     public class Prueba
     {
 
+
+        public string nombre{get,set};
     }
 }
