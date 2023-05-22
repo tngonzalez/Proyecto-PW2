@@ -9,5 +9,7 @@ namespace appHardTech.Models
     {
       public int Id {get,set};
       //Comentario
+
+        public string nombre{get,set};
     }
 }
