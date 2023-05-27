@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/appHardTech/config/applicationhost.config
+/.vs/appHardTech/v17/.suo
+/appHardTech/obj/Debug/appHardTech.csproj.AssemblyReference.cache
+/appHardTech/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
