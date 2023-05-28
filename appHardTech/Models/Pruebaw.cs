@@ -5,8 +5,10 @@ using System.Web;
 
 namespace appHardTech.Models
 {
-    public class Pruebaw
+    public class Prueba
     {
-        public int ID { get; set; } 
+        public int ID { get; set; }
+
+        public string Descripcion { get; set; }
     }
 }
