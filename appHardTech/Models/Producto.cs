@@ -10,6 +10,6 @@ namespace appHardTech.Models
         public int Id { get; set; }
         public string Name { get; set; }
 
-        
+        // funciona
     }
 }
